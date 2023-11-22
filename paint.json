@@ -1,16 +1,16 @@
 {"paint": [
     {"id": "3",
-    "name": "Witcher",
+    "name": "Flower",
     "level": "Difficult",
     "image": "https://raw.githubusercontent.com/Boga28/ColoringBooks/main/PaintCards/paint_pia.png"},
   
     {"id": "2",
-    "name": "Flower",
+    "name": "Witcher",
     "level": "Difficult",
     "image": "https://raw.githubusercontent.com/Boga28/ColoringBooks/main/PaintCards/paint_pie.png"},
   
     {"id": "1",
     "name": "Wild Cat",
-    "level": "Difficult",
+    "level": "Normal",
     "image": "https://raw.githubusercontent.com/Boga28/ColoringBooks/main/PaintCards/paint_pic.png"}
 ]}
