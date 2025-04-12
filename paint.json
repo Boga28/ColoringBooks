@@ -1,4 +1,9 @@
 {"paint": [
+    {"id": "4",
+    "name": "Super Hero",
+    "level": "Difficult",
+    "image": "https://raw.githubusercontent.com/Boga28/ColoringBooks/main/PaintCards/super_hero.png"},
+    
     {"id": "3",
     "name": "Flower",
     "level": "Difficult",
